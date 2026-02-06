@@ -27,7 +27,7 @@ The app queries the official Nobel Prize API in real-time to provide a definitiv
 
 ## 🚀 Live Demo
 
-Simply open `trump-nobel-checker.html` in any modern web browser!
+Simply open `[Trump Nobel Checker](https://trump-nobel.pages.dev/)` in any modern web browser!
 
 ## 📋 How It Works
 
