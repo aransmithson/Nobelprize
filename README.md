@@ -53,10 +53,8 @@ No installation required! Just download and open:
 git clone https://github.com/yourusername/trump-nobel-checker.git
 
 # Open the HTML file
-open trump-nobel-checker.html
+open index.html
 ```
-
-Or simply download `trump-nobel-checker.html` and double-click to open in your browser.
 
 ## 💻 Technical Details
 
