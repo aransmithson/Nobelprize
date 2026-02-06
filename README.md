@@ -96,7 +96,8 @@ const trumpVariations = [
     'trump, donald',
     'd. trump',
     'donald j. trump',
-    'donald john trump'
+    'donald john trump',
+    'donny el trumpo'
 ];
 ```
 
